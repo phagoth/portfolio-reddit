@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Raddit::Application.config.secret_key_base = '17b49f3fb48f66a8d316cc237b82a07b6e5ee4bc18c6073abb3957bbce4256e6120f97bc8d18f4c1ac502f3427c48c27873917a1d475e407d4282b8a4477a26d'
+Reddit::Application.config.secret_key_base = '17b49f3fb48f66a8d316cc237b82a07b6e5ee4bc18c6073abb3957bbce4256e6120f97bc8d18f4c1ac502f3427c48c27873917a1d475e407d4282b8a4477a26d'

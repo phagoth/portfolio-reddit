@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Raddit::Application.load_tasks
+Reddit::Application.load_tasks

@@ -1,4 +1,4 @@
-Raddit::Application.routes.draw do
+Reddit::Application.routes.draw do
   devise_for :users
   resources :links
 
